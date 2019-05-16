@@ -34,3 +34,20 @@ Para Rodar a aplicação executar:
 ```bash
 $ node app
 ```
+
+A Aplicação esta configurada para rodar na porta 3000.
+Para acessar a aplicação entrar no endereço
+
+http://localhost:3000. Para  alterar o numero de porta editar o arquivo `app.js`.
+
+## Desenvolvimento
+
+O Projeto foi Adicionado Com:
+
+* [Node.js](https://nodejs.org) - Plataforma de desenvolvimento Javascript
+
+* [Sublime Text](https://sublimetext.com) - Editor de texto para Programacao.
+
+## Autores
+
+* **ThuRika** - [ThuRika](https://github.com/ThuRika/)
