@@ -15,3 +15,22 @@ $ node --version
 ```bash
 $ git --version
 ```
+
+## Instalação
+
+Clonar O repositorio do github e usar o `npm` do Node.js para instalar as dependencias de modulos.
+
+```bash
+$ git clone https://github.com/ThuRika/learning-nodejs-projeto-tabuada.git
+
+$ cd learning-nodejs-projeto-tabuada/
+
+$ npm install
+```
+
+## Utilização
+
+Para Rodar a aplicação executar:
+```bash
+$ node app
+```
